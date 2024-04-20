@@ -1,6 +1,6 @@
 # Roadside GNSS-assisted GNSS/LiDAR/IMU integrated system
 
-This repo will contains the data of  our submitted paper: **Roadside GNSS-assisted GNSS/LiDAR/IMU integrated system for Intelligent Vehicles in Urban Areas** . It is part of the project [V2X Cooperative Navigation](https://sites.google.com/view/v2x-cooperative-navigation).
+This repo will contains the data of  our submitted paper: **Roadside GNSS Enhanced Multi-Sensor Integration for Intelligent Vehicles in Urban Areas** . It is part of the project [V2X Cooperative Navigation](https://sites.google.com/view/v2x-cooperative-navigation).
 
 <p align="center">
   <img width="65%" src="img/system_overview.png">
