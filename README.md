@@ -20,4 +20,4 @@ Checkout our demo at [Video Link](https://youtu.be/zC7WAJiO9Mo)
 </p>
 
 ## Acknowledge
-The authors would like to express their thanks to Xikun Liu and Alpamys Urtay for their kind help in this research. Thanks for [GLIO](https://github.com/XikunLiu-huskit/GLIO) (Liu, X., Wen, W., & Hsu, L. T. (2023). Glio: Tightly-coupled gnss/lidar/imu integration for continuous and drift-free state estimation of intelligent vehicles in urban areas. IEEE Transactions on Intelligent Vehicles.)
+The authors would like to express their thanks to Xikun Liu from PolyU and Alpamys Urtay from ASTRI for their kind help in this research. Thanks for [GLIO](https://github.com/XikunLiu-huskit/GLIO) (Liu, X., Wen, W., & Hsu, L. T. (2023). Glio: Tightly-coupled gnss/lidar/imu integration for continuous and drift-free state estimation of intelligent vehicles in urban areas. IEEE Transactions on Intelligent Vehicles.)
